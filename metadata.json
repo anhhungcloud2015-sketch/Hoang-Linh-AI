@@ -1,0 +1,5 @@
+{
+  "name": "In Vai Hoang Linh AI",
+  "description": "An AI-powered tool that extracts, redraws, and vectorizes fabric patterns from clothing photos. It flattens perspective, removes wrinkles, and generates seamless, print-ready repeat tiles (PNG & SVG) using the Gemini API.",
+  "requestFramePermissions": []
+}
